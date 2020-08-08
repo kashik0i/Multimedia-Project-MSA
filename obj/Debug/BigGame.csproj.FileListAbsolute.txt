@@ -1,0 +1,9 @@
+C:\Users\amr19\source\repos\BigGame\bin\Debug\BigGame.exe.config
+C:\Users\amr19\source\repos\BigGame\bin\Debug\BigGame.exe
+C:\Users\amr19\source\repos\BigGame\bin\Debug\BigGame.pdb
+C:\Users\amr19\source\repos\BigGame\obj\Debug\BigGame.csprojAssemblyReference.cache
+C:\Users\amr19\source\repos\BigGame\obj\Debug\BigGame.Properties.Resources.resources
+C:\Users\amr19\source\repos\BigGame\obj\Debug\BigGame.csproj.GenerateResource.cache
+C:\Users\amr19\source\repos\BigGame\obj\Debug\BigGame.csproj.CoreCompileInputs.cache
+C:\Users\amr19\source\repos\BigGame\obj\Debug\BigGame.exe
+C:\Users\amr19\source\repos\BigGame\obj\Debug\BigGame.pdb
